@@ -1,9 +1,9 @@
-Syllabus
+# Syllabus
 
-Introduction
-	Introduction 2019
-	How To Find The Resources For This Course.
-	The Exam Blue Print
+### Introduction
+- [x] Introduction 2019
+- [x] How To Find The Resources For This Course.
+- [x] The Exam Blue Print
 
 ### AWS - 10,000 Foot Overview
 - [ ] The History Of AWS
