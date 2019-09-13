@@ -6,10 +6,10 @@ Introduction
 	The Exam Blue Print
 
 AWS - 10,000 Foot Overview
-	The History Of AWS
-	AWS - 10,000 Foot Overview
-	How To Sign Up To AWS.
-	10,000 Foot Overview Quiz - 7 questions
+- [ ] The History Of AWS
+- [ ] AWS - 10,000 Foot Overview
+- [ ] How To Sign Up To AWS.
+- [ ] 10,000 Foot Overview Quiz - 7 questions
 
 Identity Access Management & S3
 	IAM 101
