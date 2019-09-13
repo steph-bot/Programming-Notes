@@ -5,51 +5,51 @@ Introduction
 	How To Find The Resources For This Course.
 	The Exam Blue Print
 
-AWS - 10,000 Foot Overview
+### AWS - 10,000 Foot Overview
 - [ ] The History Of AWS
 - [ ] AWS - 10,000 Foot Overview
 - [ ] How To Sign Up To AWS.
 - [ ] 10,000 Foot Overview Quiz - 7 questions
 
-Identity Access Management & S3
-	IAM 101
-	IAM Lab
-	Create A Billing Alarm
-	S3 101
-	Let's Create An S3 Bucket
-	S3 Security And Encryption
-	S3 Version Control
-	S3 Lifecycle Management and Glacier
-	Cross Region Replication
-	Transfer Acceleration
-	CloudFront Overview
-	CloudFront Lab
-	Snowball Overview
-	Snowball Lab
-	Storage Gateway
-	Identity Access Management & S3 Summary
-	Identity Access Management & S3 Quiz - 37 questions
+### Identity Access Management & S3
+- [ ] IAM 101
+- [ ] IAM Lab
+- [ ] Create A Billing Alarm
+- [ ] S3 101
+- [ ] Let's Create An S3 Bucket
+- [ ] S3 Security And Encryption
+- [ ] S3 Version Control
+- [ ] S3 Lifecycle Management and Glacier
+- [ ] Cross Region Replication
+- [ ] Transfer Acceleration
+- [ ] CloudFront Overview
+- [ ] CloudFront Lab
+- [ ] Snowball Overview
+- [ ] Snowball Lab
+- [ ] Storage Gateway
+- [ ] Identity Access Management & S3 Summary
+- [ ] Identity Access Management & S3 Quiz - 37 questions
 
 EC2
-	EC2 101
-	Let's Get Our Hands Dirty With EC2 - Part 1
-	Let's Get Our Hands Dirty With EC2 - Part 2
-	Security Groups Basics
-	EBS 101
-	Volumes & Snapshots
-	AMI Types (EBS vs Instance Store)
-	Encrypted Root Device Volumes & Snapshots
-	AWS This Week
-	CloudWatch 101
-	CloudWatch Lab
-	The AWS Command Line
-	Using IAM Roles With EC2
-	Using Boot Strap Scripts
-	EC2 Instance Meta Data
-	Elastic File System
-	EC2 Placement Groups
-	EC2 Summary
-	EC2 Quiz - 23 questions
+- [ ] EC2 101
+- [ ] Let's Get Our Hands Dirty With EC2 - Part 1
+- [ ] Let's Get Our Hands Dirty With EC2 - Part 2
+- [ ] Security Groups Basics
+- [ ] EBS 101
+- [ ] Volumes & Snapshots
+- [ ] AMI Types (EBS vs Instance Store)
+- [ ] Encrypted Root Device Volumes & Snapshots
+- [ ] AWS This Week
+- [ ] CloudWatch 101
+- [ ] CloudWatch Lab
+- [ ] The AWS Command Line
+- [ ] Using IAM Roles With EC2
+- [ ] Using Boot Strap Scripts
+- [ ] EC2 Instance Meta Data
+- [ ] Elastic File System
+- [ ] EC2 Placement Groups
+- [ ] EC2 Summary
+- [ ] EC2 Quiz - 23 questions
 
 Databases On AWS
 	Databases 101
