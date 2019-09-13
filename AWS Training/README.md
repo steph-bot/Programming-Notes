@@ -93,39 +93,45 @@ VPCs
 - [ ] VPCs Quiz - 20 questions
 
 HA Architecture
-	Load Balancers Theory
-	Load Balancers And Health Checks Lab
-	Advanced Load Balancer Theory
-	Autoscaling Groups Lab
-	HA Architecture
-	HA Word Press Site
-	Setting Up EC2
-	Adding Resilience And Autoscaling
-	Cleaning Up
-	CloudFormation
-	Elastic Beanstalk
-	Summary
-	HA Architecture Quiz - 15 questions
+- [ ] Load Balancers Theory
+- [ ] Load Balancers And Health Checks Lab
+- [ ] Advanced Load Balancer Theory
+- [ ] Autoscaling Groups Lab
+- [ ] HA Architecture
+- [ ] HA Word Press Site
+- [ ] Setting Up EC2
+- [ ] Adding Resilience And Autoscaling
+- [ ] Cleaning Up
+- [ ] CloudFormation
+- [ ] Elastic Beanstalk
+- [ ] Summary
+- [ ] HA Architecture Quiz - 15 questions
 
 Applications
-	SQS
-	SWF
-	SNS
-	Elastic Transcoder
-	API Gateway
-	Kinesis
-	Web Identity Federation - Cognito
-	Summary
-	Applications Quiz - 11 questions
+- [ ] SQS
+- [ ] SWF
+- [ ] SNS
+- [ ] Elastic Transcoder
+- [ ] API Gateway
+- [ ] Kinesis
+- [ ] Web Identity Federation - Cognito
+- [ ] Summary
+- [ ] Applications Quiz - 11 questions
 
 Serverless
-	Lambda Concepts
-	Let's Build A Serverless Webpage
-	Let's Build An Alexa Skill
-	Summary
-	Serverless Quiz - 5 questions
+- [ ] Lambda Concepts
+- [ ] Let's Build A Serverless Webpage
+- [ ] Let's Build An Alexa Skill
+- [ ] Summary
+- [ ] Serverless Quiz - 5 questions
 
 Good Luck & What's Next
-	Good Luck & How To Book Your Exam!
-	Practice Exam 1 - 78 questions
-	Practice Exam 2 - 69 questions
+- [ ] Good Luck & How To Book Your Exam!
+- [ ] Practice Exam 1 - 78 questions
+- [ ] Practice Exam 2 - 69 questions
+
+
+
+
+
+
