@@ -1,17 +1,17 @@
 # Syllabus
 
-### Introduction
+### 1: Introduction
 - [x] Introduction 2019
 - [x] How To Find The Resources For This Course.
 - [x] The Exam Blue Print
 
-### AWS - 10,000 Foot Overview
+### 2: AWS - 10,000 Foot Overview
 - [x] The History Of AWS
-- [ ] AWS - 10,000 Foot Overview [ IN PROGRESS ]
+- [x] AWS - 10,000 Foot Overview
 - [ ] How To Sign Up To AWS.
 - [ ] 10,000 Foot Overview Quiz - 7 questions
 
-### Identity Access Management & S3
+### 3: Identity Access Management & S3
 - [ ] IAM 101
 - [ ] IAM Lab
 - [ ] Create A Billing Alarm
@@ -30,7 +30,7 @@
 - [ ] Identity Access Management & S3 Summary
 - [ ] Identity Access Management & S3 Quiz - 37 questions
 
-### EC2
+### 4: EC2
 - [ ] EC2 101
 - [ ] Let's Get Our Hands Dirty With EC2 - Part 1
 - [ ] Let's Get Our Hands Dirty With EC2 - Part 2
@@ -51,7 +51,7 @@
 - [ ] EC2 Summary
 - [ ] EC2 Quiz - 23 questions
 
-Databases On AWS
+### 5: Databases On AWS
 - [ ] Databases 101
 - [ ] Let's Create An RDS Instance
 - [ ] RDS Backups, Multi-AZ & Read Replicas
@@ -64,7 +64,7 @@ Databases On AWS
 - [ ] Guru Of The Week
 - [ ] Databases on AWS Quiz - 24 questions
 
-Route53
+### 6: Route53
 - [ ] DNS 101
 - [ ] Route53 - Register A Domain Name Lab
 - [ ] Route53 Routing Policies Available On AWS
@@ -78,7 +78,7 @@ Route53
 - [ ] Route53 Summary
 - [ ] Route53 Quiz - 7 questions
 
-VPCs
+### 7: VPCs
 - [ ] Introduction To VPCs
 - [ ] Build A Custom VPC - Part 1
 - [ ] Build A Custom VPC - Part 2
@@ -92,7 +92,7 @@ VPCs
 - [ ] Summary
 - [ ] VPCs Quiz - 20 questions
 
-HA Architecture
+### 8: HA Architecture
 - [ ] Load Balancers Theory
 - [ ] Load Balancers And Health Checks Lab
 - [ ] Advanced Load Balancer Theory
@@ -107,7 +107,7 @@ HA Architecture
 - [ ] Summary
 - [ ] HA Architecture Quiz - 15 questions
 
-Applications
+### 9: Applications
 - [ ] SQS
 - [ ] SWF
 - [ ] SNS
@@ -118,14 +118,14 @@ Applications
 - [ ] Summary
 - [ ] Applications Quiz - 11 questions
 
-Serverless
+### 10: Serverless
 - [ ] Lambda Concepts
 - [ ] Let's Build A Serverless Webpage
 - [ ] Let's Build An Alexa Skill
 - [ ] Summary
 - [ ] Serverless Quiz - 5 questions
 
-Good Luck & What's Next
+### 11: Good Luck & What's Next
 - [ ] Good Luck & How To Book Your Exam!
 - [ ] Practice Exam 1 - 78 questions
 - [ ] Practice Exam 2 - 69 questions
