@@ -8,8 +8,8 @@
 ### 2: AWS - 10,000 Foot Overview
 - [x] The History Of AWS
 - [x] AWS - 10,000 Foot Overview
-- [ ] How To Sign Up To AWS.
-- [ ] 10,000 Foot Overview Quiz - 7 questions
+- [x] How To Sign Up To AWS.
+- [x] 10,000 Foot Overview Quiz - 7 questions
 
 ### 3: Identity Access Management & S3
 - [ ] IAM 101
