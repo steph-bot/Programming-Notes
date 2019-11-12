@@ -10,9 +10,22 @@ Match	var g = 123;	Success
 
 Regex: 123
 
-
-
 ```
+const regex = /(\d+)\s+(\d+\.\d+\.\d+\.\d+\W\d+)\s+(\S+)?\s+(\d+\.\d+\.\d+\.\d+\W\d+)?/;
+// groups with question marks are optional
+
+const capturedGroups = string.match(regex);
+if (capturedGroups) {
+        const firstMatch = capturedGroups[1];
+        const secondMatch = capturedGroups[2];
+        const thirdMatch = capturedGroups[3];
+        const fourthMatch = capturedGroups[4];
+        }
+        
+        
+        
+
+
 abc…	Letters
 123…	Digits
 \d	Any Digit
