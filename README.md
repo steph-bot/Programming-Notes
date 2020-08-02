@@ -6,6 +6,14 @@ I created most these notes to supplement video lectures and tutorials by Andrei 
 
 - Notes from Code Complete 2 by Steve McConnell
 - A great notes reference: https://github.com/mgp/book-notes/blob/master/code-complete.markdown
+- My favorite CSS commenting styles: https://cssguidelin.es/
+- Google JS Style Guide: https://google.github.io/styleguide/jsguide.html
+- Ant Design (React UI Library) https://ant.design/
+- Mocha vs Jest
+- Chai, Should
+- Code coverage tools: nyc (Istanbul)
+- TypeScript: https://www.typescriptlang.org/docs/handbook/basic-types.html
+- ESLint (AirBnB)
 
 <br>
 <br>
