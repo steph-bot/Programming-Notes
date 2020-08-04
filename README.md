@@ -14,6 +14,7 @@ I created most these notes to supplement video lectures and tutorials by Andrei 
 - Code coverage tools: nyc (Istanbul)
 - TypeScript: https://www.typescriptlang.org/docs/handbook/basic-types.html
 - ESLint (AirBnB)
+- Funny article about Babel: https://hackersandslackers.com/babel-ecma-script/
 
 <br>
 <br>
