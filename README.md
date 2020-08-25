@@ -28,6 +28,19 @@ To Do:<br>
 Note: Some of the file names say "Javascript" instead of "JavaScript". It seems like renaming the files while maintaining their git histories is a major challenge. Extended discussion here: https://stackoverflow.com/questions/2314652/is-it-possible-to-move-rename-files-in-git-and-maintain-their-history
 
 
+## Favorite Comments + ASCII Art
+Waves:
+```
+_.~"~._.~"~._.~"~._.~"~._
+```
+
+Blocky:
+```
+  ////////////////////
+  //   Code Block!  //
+  ////////////////////
+  ```
+
 
 
 
