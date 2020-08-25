@@ -31,7 +31,7 @@ Note: Some of the file names say "Javascript" instead of "JavaScript". It seems 
 ## Favorite Comments + ASCII Art
 Waves:
 ```
-_.~"~._.~"~._.~"~._.~"~._
+   _.~"~._.~"~._.~"~._.~"~._
 ```
 
 Blocky:
@@ -41,6 +41,12 @@ Blocky:
   ////////////////////
   ```
 
+Pretty Headingz:
+```
+  /*----------------------------------------------------------*\
+      # PRETTY HEADING HERE
+  \*----------------------------------------------------------*/
+  ```
 
 
 
