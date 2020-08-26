@@ -15,6 +15,7 @@ I created most these notes to supplement video lectures and tutorials by Andrei 
 - TypeScript: https://www.typescriptlang.org/docs/handbook/basic-types.html
 - ESLint (AirBnB)
 - Funny article about Babel: https://hackersandslackers.com/babel-ecma-script/
+- ASCII One Liners: https://www.asciiart.eu/ascii-one-line
 
 <br>
 <br>
