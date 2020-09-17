@@ -9,4 +9,5 @@ React
 ```
 npm install -g create-react-app // install react app creation tool
 create-react-app robofriends // create a new react project called "robofriends"
+cd robofriends && yarn start // open app in browser
 ```
