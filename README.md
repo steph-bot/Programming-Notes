@@ -17,10 +17,12 @@ I created most these notes to supplement video lectures and tutorials by Andrei 
 - Funny article about Babel: https://hackersandslackers.com/babel-ecma-script/
 - ASCII One Liners: https://www.asciiart.eu/ascii-one-line
 - npm linking:
+```
 cd inspector-dev-tools # <-- whichever directory has the package
 npm link
 cd sophos-central-inspector
 npm link @liongard/inspector-dev-tools # <-- this installs from your local drive and not from npm basically
+```
 
 <br>
 <br>
