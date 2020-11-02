@@ -55,6 +55,24 @@ Pretty Headingz:
       # PRETTY HEADING HERE
   \*----------------------------------------------------------*/
   ```
+  
+  ## SOLID + YAGNI
+  Single Responsibility Principle
+  - A class should have only a single responsibility
+  - Only one potential change in the software's specification should be able to affect the specification of the class
+  
+  Open Closed Principle
+  - A module should be open for extension but closed for modification
+  
+  Liskov Substitution Principle
+  - Objects in a program should be replaceable with instances of their subtypes without altering the correctnes of that program
+  
+  Interface Segregation Principle
+  - Clients should not be forced to depend upon the interfaces that they do not use
+  
+  Dependency Inversion Principle
+  - Program to an interface, not to an implementation
+  - Use an abstract interface to separate business logic from concrete implementations.
 
 
 
