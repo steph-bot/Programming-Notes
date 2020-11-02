@@ -73,6 +73,10 @@ Pretty Headingz:
   Dependency Inversion Principle
   - Program to an interface, not to an implementation
   - Use an abstract interface to separate business logic from concrete implementations.
+  
+  YAGNI
+  - You ain't gonna need it: Implement it when you need it, not when you foresee that you may need it.
+  - SOLID tells you how to do it, YAGNI tells you when to do it
 
 
 
