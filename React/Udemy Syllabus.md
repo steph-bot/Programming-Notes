@@ -9,8 +9,8 @@
 - [ ] create-react-app 3
 - [ ] Quick Note: Class vs Functional App.js
 - [ ] Code From Previous Video
-- [ ] Quick Note: CRA 4
-- [ ] Your First React Component
+- [x] Quick Note: CRA 4
+- [x] Your First React Component
 - [ ] Building A React App 1
 - [ ] React.Fragment and Semantic HTML
 - [ ] Building A React App 2
