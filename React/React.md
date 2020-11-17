@@ -15,8 +15,8 @@ cd robofriends && yarn start // open app in browser
 ## Destructuring props
 We can destructure our props to make our code cleaner. Before:
 ```
-const Card = (props) => {
-  const { name, email, id } = props;
+const Card = (props) => { // Props
+  const { name, email, id } = props; // Props
   return (
     <div className='bg-light-green dib br3 pa3 ma2 grow bw2 shadow-5'>
       <img alt='robots' src={`https://robohash.org/${id}?200x200`} />
@@ -30,7 +30,7 @@ const Card = (props) => {
 ```
 After:
 ```
-const Card = ({ name, email, id }) => {
+const Card = ({ name, email, id }) => { // Props
   return (
     <div className='bg-light-green dib br3 pa3 ma2 grow bw2 shadow-5'>
       <img alt='robots' src={`https://robohash.org/${id}?200x200`} />
