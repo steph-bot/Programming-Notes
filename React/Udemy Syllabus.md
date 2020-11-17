@@ -11,7 +11,7 @@
 - [ ] Code From Previous Video
 - [x] Quick Note: CRA 4
 - [x] Your First React Component
-- [ ] Building A React App 1
+- [x] Building A React App 1: Create Robofriends cards with robots (Card.js, robots.js)
 - [ ] React.Fragment and Semantic HTML
 - [ ] Building A React App 2
 - [ ] Building A React App 3
