@@ -49,3 +49,25 @@ One thing you will notice with React is that because we always have to return ju
 BUT WHAT ABOUT SEMANTIC HTML!??!!
 
 You are right! React realized this was an issue, and with the newer version of React 16.2, they introduced something called Fragment to fix this issue: https://blog.logrocket.com/rendering-sibling-elements-react-fragments/
+
+## << Notes Continued>>
+- One way data flow: from parent to child.
+- One-way data flow: We always have a parent, such as an app component, with children, that have their own children, etc. We can have one big app component that has different children so that we make each component small and reusable.
+
+Right now, we have a Card component, which we are rendering over and over:
+```
+ReactDOM.render(
+  <React.StrictMode>
+    {/* // Create greeting prop */}
+    <div>
+      <Card id={robots[0].id} name={robots[0].name} email={robots[0].email} />
+      <Card id={robots[1].id} name={robots[1].name} email={robots[1].email} />
+      <Card id={robots[2].id} name={robots[2].name} email={robots[2].email} />
+    </div>
+  </React.StrictMode>,
+  document.getElementById('root')
+);
+```
+Let's create a CardList component, that will be a parent of Card, so that we can just render 1 CardList instead of many individual Card components.
+
+
