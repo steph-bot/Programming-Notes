@@ -56,6 +56,8 @@ You are right! React realized this was an issue, and with the newer version of R
 
 Right now, we have a Card component, which we are rendering over and over:
 ```
+// index.js
+
 ReactDOM.render(
   <React.StrictMode>
     {/* // Create greeting prop */}
@@ -69,5 +71,22 @@ ReactDOM.render(
 );
 ```
 Let's create a CardList component, that will be a parent of Card, so that we can just render 1 CardList instead of many individual Card components.
+
+```
+// components/CardList.js
+
+const CardList = ({ robots }) => {
+  const cardArray = robots.map((user, i) => {
+    return <Card id={robots[i].id} name={robots[i].name} email={robots[i].email} />
+  })
+  return (
+    <div>
+      { cardArray }
+    </div>
+  );
+}
+```
+
+Note: Each child in an array or iterator should have a unique key prop. This error shows up in the browser console. 
 
 
