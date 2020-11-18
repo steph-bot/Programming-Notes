@@ -115,4 +115,10 @@ const CardList = ({ robots }) => {
 }
 ```
 
+## State
+
+State - an object which describes your application. The state can change and affect the app. Usually lives in the parent component. 
+
+Props are simply things that come out of state. So a parent feeds state into a child component, and as soon as it is received, it is a prop. Child receives state as a prop. 
+
 
