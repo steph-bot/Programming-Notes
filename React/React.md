@@ -87,6 +87,30 @@ const CardList = ({ robots }) => {
 }
 ```
 
-Note: Each child in an array or iterator should have a unique key prop. This error shows up in the browser console. 
+Note: Each child in an array or iterator should have a unique key prop. This error shows up in the browser console. This is just something you have to remember for loops. Basically, React needs to be able to identify each element easily without changing the entire DOM, which is why it asks for a unique key prop.
+
+The key prop should have something that doesn't change. For example, index (i) could change if array items get moved, so it is not the best option for a key prop. It's better to use something unique, like the ID.
+
+```
+// components/CardList.js
+
+const CardList = ({ robots }) => {
+  const cardArray = robots.map((user, i) => {
+    return (
+      <Card 
+        key={robots[i].id} // Key Prop Unique Identifier
+        id={robots[i].id} 
+        name={robots[i].name} 
+        email={robots[i].email}
+      />
+    );
+  })
+  return (
+    <div>
+      { cardArray }
+    </div>
+  );
+}
+```
 
 
