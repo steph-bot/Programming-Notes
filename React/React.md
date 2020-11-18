@@ -42,3 +42,10 @@ const Card = ({ name, email, id }) => { // Props
   )
 }
 ```
+
+## React.Fragment and Semantic HTML
+One thing you will notice with React is that because we always have to return just one element from a component, we end up wrapping a lot of our components in ```<div></div>```
+
+BUT WHAT ABOUT SEMANTIC HTML!??!!
+
+You are right! React realized this was an issue, and with the newer version of React 16.2, they introduced something called Fragment to fix this issue: https://blog.logrocket.com/rendering-sibling-elements-react-fragments/
