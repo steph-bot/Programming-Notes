@@ -50,7 +50,7 @@ BUT WHAT ABOUT SEMANTIC HTML!??!!
 
 You are right! React realized this was an issue, and with the newer version of React 16.2, they introduced something called Fragment to fix this issue: https://blog.logrocket.com/rendering-sibling-elements-react-fragments/
 
-## << Notes Continued>>
+## Parent / Child Components
 - One way data flow: from parent to child.
 - One-way data flow: We always have a parent, such as an app component, with children, that have their own children, etc. We can have one big app component that has different children so that we make each component small and reusable.
 
@@ -86,6 +86,8 @@ const CardList = ({ robots }) => {
   );
 }
 ```
+
+## Key Prop
 
 Note: Each child in an array or iterator should have a unique key prop. This error shows up in the browser console. This is just something you have to remember for loops. Basically, React needs to be able to identify each element easily without changing the entire DOM, which is why it asks for a unique key prop.
 
