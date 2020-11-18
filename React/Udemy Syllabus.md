@@ -12,7 +12,7 @@
 - [x] Quick Note: CRA 4
 - [x] Your First React Component
 - [x] Building A React App 1: Create Robofriends cards with robots (Card.js, robots.js)
-- [ ] React.Fragment and Semantic HTML
+- [x] React.Fragment and Semantic HTML (Blog post => Skipped this)
 - [ ] Building A React App 2
 - [ ] Building A React App 3
 - [ ] Styling Your React App
