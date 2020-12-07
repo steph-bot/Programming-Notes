@@ -25,6 +25,10 @@ cd sophos-central-inspector
 npm link @liongard/inspector-dev-tools # <-- this installs from your local drive and not from npm basically
 ```
 - Some very cool AWS labs: https://github.com/acantril/learn-cantrill-io-labs
+- Manually kill Node process in terminal:
+```
+pkill -9 node
+```
 
 <br>
 <br>
