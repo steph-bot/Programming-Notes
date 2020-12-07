@@ -21,12 +21,5 @@ Interview with Indra Nooyi:
 - When you hire someone, they come with an entire ecosystem (friends, family, etc.) To help employees bring their entire selves to work, ask them about their families and their lives. Get to know them on a personal level so you can better understand their goals and motivations
 - Most important traits in a leader: 
   - life-long learners, 
-  - backbone + courage: willing to 
+  - backbone + courage
 
-```python
-import foobar
-
-foobar.pluralize('word') # returns 'words'
-foobar.pluralize('goose') # returns 'geese'
-foobar.singularize('phenomena') # returns 'phenomenon'
-```
