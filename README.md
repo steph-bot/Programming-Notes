@@ -29,6 +29,7 @@ npm link @liongard/inspector-dev-tools # <-- this installs from your local drive
 ```
 pkill -9 node
 ```
+- macOS – SSH Error ‘No Matching Exchange Method Found’: https://www.petenetlive.com/kb/article/0001245
 
 <br>
 <br>
@@ -39,7 +40,6 @@ To Do:<br>
 - Table of Contents
 <br>
 <br>
-Note: Some of the file names say "Javascript" instead of "JavaScript". It seems like renaming the files while maintaining their git histories is a major challenge. Extended discussion here: https://stackoverflow.com/questions/2314652/is-it-possible-to-move-rename-files-in-git-and-maintain-their-history
 
 
 ## Favorite Comments + ASCII Art
