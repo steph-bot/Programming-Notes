@@ -121,4 +121,9 @@ State - an object which describes your application. The state can change and aff
 
 Props are simply things that come out of state. So a parent feeds state into a child component, and as soon as it is received, it is a prop. Child receives state as a prop. 
 
+## Handling Events
+
+https://reactjs.org/docs/handling-events.html
+
+
 
