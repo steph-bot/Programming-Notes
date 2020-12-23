@@ -14,7 +14,7 @@
 - [x] Building A React App 1: Create Robofriends cards with robots (Card.js, robots.js)
 - [x] React.Fragment and Semantic HTML (Blog post => Skipped this)
 - [x] Building A React App 2 (CardList.js, key prop for lists)
-- [ ] Building A React App 3
+- [x] Building A React App 3 (filter robots using search bar)
 - [ ] Styling Your React App
 - [ ] Building A React App 4
 - [ ] Building A React App 5
