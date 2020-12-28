@@ -16,7 +16,7 @@
 - [x] Building A React App 2 (CardList.js, key prop for lists)
 - [x] Building A React App 3 (filter robots using search bar)
 - [x] Styling Your React App (find font online)
-- [ ] Building A React App 4
+- [x] Building A React App 4 (use API to pull back users, lifecycle methods, add "Loading" message)
 - [ ] Building A React App 5
 - [ ] Building A React App 6
 - [ ] Project Files
