@@ -125,5 +125,17 @@ Props are simply things that come out of state. So a parent feeds state into a c
 
 https://reactjs.org/docs/handling-events.html
 
+## Lifecycle Methods
+
+https://reactjs.org/docs/react-component.html
+
+- Mount components at start of the app. 
+- Updating for when component changes. 
+- Unmounting is when component is removed from page.
+
+## Fetch API
+
+https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API
+
 
 
