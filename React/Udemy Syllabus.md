@@ -15,7 +15,7 @@
 - [x] React.Fragment and Semantic HTML (Blog post => Skipped this)
 - [x] Building A React App 2 (CardList.js, key prop for lists)
 - [x] Building A React App 3 (filter robots using search bar)
-- [ ] Styling Your React App
+- [x] Styling Your React App (find font online)
 - [ ] Building A React App 4
 - [ ] Building A React App 5
 - [ ] Building A React App 6
