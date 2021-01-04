@@ -157,5 +157,13 @@ const ParentComponent = (props) => {
 }
 ```
 
+## Style using JSX
+
+In-line styling via JSX is an alternative to CSS. Note that JSX syntax varies from CSS and uses camelCase. 
+```
+    <div style={{overflowY: 'scroll', border: '5px solid black', height: '800px'}}>
+    </div>
+```
+
 
 
