@@ -17,7 +17,7 @@
 - [x] Building A React App 3 (filter robots using search bar)
 - [x] Styling Your React App (find font online)
 - [x] Building A React App 4 (use API to pull back users, lifecycle methods, add "Loading" message)
-- [ ] Building A React App 5
+- [ ] Building A React App 5 (freeze top with Scroll component, props.children)
 - [ ] Building A React App 6
 - [ ] Project Files
 - [ ] Keeping Your Projects Up To Date
