@@ -165,5 +165,13 @@ In-line styling via JSX is an alternative to CSS. Note that JSX syntax varies fr
     </div>
 ```
 
+## Style using JSX
+
+Containers are smart compenents that have state, lifecycle hooks, class syntax. Can't use a pure function for these.
+
+## Build
+
+npm run build: builds the code, minifies it, creates a build folder that is ready for use. 
+
 
 
