@@ -138,4 +138,24 @@ https://reactjs.org/docs/react-component.html
 https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API
 
 
+## Children (props.children)
+
+Use this to wrap components. In App.js...
+```
+  render() {
+    return (
+      <ParentComponent>
+        <ChildComponent />
+      </ParentComponent>
+      );
+  }
+```
+In ParentComponent.js...
+```
+const ParentComponent = (props) => {
+  return props.children;
+}
+```
+
+
 
