@@ -20,10 +20,10 @@
 - [x] Building A React App 5 (freeze top with Scroll component, props.children, JSX styles)
 - [x] Building A React App 6 (refactor: object de-structuring. Build!!)
 - [x] Project Files (link to code for this project)
-- [ ] Keeping Your Projects Up To Date
-- [ ] Exercise: React 17
-- [ ] Solution: React 17
-- [ ] React Review
+- [x] Keeping Your Projects Up To Date (update npm packages)
+- [x] Exercise: React 17 (update npm packages on robofriends)
+- [x] Solution: React 17
+- [x] React Review (high level summary)
 - [ ] Error Boundary In React
 - [ ] Deploying Our React App
 - [ ] React Hooks + Redux (Saved For End Of The Course)
