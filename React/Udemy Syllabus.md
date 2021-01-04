@@ -18,8 +18,8 @@
 - [x] Styling Your React App (find font online)
 - [x] Building A React App 4 (use API to pull back users, lifecycle methods, add "Loading" message)
 - [x] Building A React App 5 (freeze top with Scroll component, props.children, JSX styles)
-- [ ] Building A React App 6
-- [ ] Project Files
+- [x] Building A React App 6 (refactor: object de-structuring. Build!!)
+- [x] Project Files (link to code for this project)
 - [ ] Keeping Your Projects Up To Date
 - [ ] Exercise: React 17
 - [ ] Solution: React 17
