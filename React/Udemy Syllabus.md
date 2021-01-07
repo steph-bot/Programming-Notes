@@ -24,7 +24,7 @@
 - [x] Exercise: React 17 (update npm packages on robofriends)
 - [x] Solution: React 17
 - [x] React Review (high level summary)
-- [ ] Error Boundary In React
+- [x] Error Boundary In React (how to render errors in dev/prod)
 - [ ] Deploying Our React App
 - [ ] React Hooks + Redux (Saved For End Of The Course)
 
