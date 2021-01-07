@@ -214,5 +214,9 @@ In App.js...
 ```
 When looking at the error, we are in dev mode and see a detailed error message. When we refresh the page, we can catch a glimpse of how the error will render in production. 
 
+# Deployment to GitHub Pages
+
+Follow directions here: https://create-react-app.dev/docs/deployment/#step-1-add-homepage-to-packagejson
+
 
 
