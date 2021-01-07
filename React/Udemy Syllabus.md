@@ -25,7 +25,7 @@
 - [x] Solution: React 17
 - [x] React Review (high level summary)
 - [x] Error Boundary In React (how to render errors in dev/prod)
-- [ ] Deploying Our React App
+- [x] Deploying Our React App (how to deploy app to GitHub Pages)
 - [ ] React Hooks + Redux (Saved For End Of The Course)
 
 ### HTTP, JSON, AJAX + Asynchronous JavaScript
