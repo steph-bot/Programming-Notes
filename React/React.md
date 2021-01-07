@@ -175,5 +175,44 @@ Containers are smart compenents that have state, lifecycle hooks, class syntax. 
 
 npm run build: builds the code, minifies it, creates a build folder that is ready for use. 
 
+## Error Boundaries
+
+Wrap the component with the "ErrorBoundary" component. 
+```
+class ErrorBoundary extends Component {
+  constructor(props) {
+    super(props);
+    this.state = {
+      hasError: false
+    }
+  }
+
+  // Lifecycle method
+  // Similar to try-catch block
+  componentDidCatch(error, info) {
+    this.setState({ hasError: true })
+
+  }
+
+  render() {
+    if (this.state.hasError) {
+      return <h1>Oops. That is not available.</h1>
+    }
+    return this.props.children
+  }
+}
+```
+In App.js...
+```
+  render() {
+    return (
+      <ErrorBoundary>
+        <Component />
+      </ErrorBoundary>
+      );
+  }
+```
+When looking at the error, we are in dev mode and see a detailed error message. When we refresh the page, we can catch a glimpse of how the error will render in production. 
+
 
 
