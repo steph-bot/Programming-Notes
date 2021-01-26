@@ -17,6 +17,7 @@ I created most these notes to supplement video lectures and tutorials by Andrei 
 - Readme template: https://www.makeareadme.com/
 - Funny article about Babel: https://hackersandslackers.com/babel-ecma-script/
 - ASCII One Liners: https://www.asciiart.eu/ascii-one-line
+- General Clean Code guidelines as they apply to typescript: https://github.com/labs42io/clean-code-typescript
 - npm linking:
 ```
 cd inspector-dev-tools # <-- whichever directory has the package
