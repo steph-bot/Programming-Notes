@@ -33,6 +33,11 @@ pkill -9 node
 ```
 - macOS – SSH Error ‘No Matching Exchange Method Found’: https://www.petenetlive.com/kb/article/0001245
 
+## FullStack:
+
+- VS Code: Chrome Debugger
+- Chrome Extensions: React Developer Tools, Redux DevTools
+
 <br>
 <br>
 <br>
