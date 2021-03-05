@@ -1,3 +1,7 @@
+Key tools: 
+- VS Code: Chrome Debugger
+- Chrome Extensions: React Developer Tools, Redux DevTools
+
 # React
 
 ```
