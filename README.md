@@ -39,6 +39,8 @@ pkill -9 node
 
 - VS Code: Chrome Debugger
 - Chrome Extensions: React Developer Tools, Redux DevTools
+- Copy and paste cUrl requests directly into Postman
+- Platform Stack: React, Redux, Postgres, Knex, ajv, antd. Use Docker to get local stack up, use iTerm script to get 4 windows going at same time. 
 
 <br>
 <br>
