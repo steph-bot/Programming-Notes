@@ -62,3 +62,4 @@ npm --version
 # Repo Setup
 1. Create repo in github
 2. Set up SSH key auth for git on this machine: [Github Doc Link](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent)
+3. Create React App: [React Doc Link](https://reactjs.org/docs/create-a-new-react-app.html#create-react-app)
