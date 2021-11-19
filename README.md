@@ -48,6 +48,7 @@ nvm install stable
 node --version
 npm --version
 ```
+- VS Code CLI trick [link](https://techstacker.com/how-to-open-vscode-terminal-command-line/)
 
 
 
