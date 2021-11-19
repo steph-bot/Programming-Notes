@@ -42,6 +42,14 @@ nano ~/.bash_profile
 source ~/.bashrc
 source ~/.bash_profile
 ```
+- Manage node versions with NVM: nvm, npm, node. Use Homebrew to easily install nvm.
+```
+nvm install stable
+node --version
+npm --version
+```
+
+
 
 ## FullStack:
 
