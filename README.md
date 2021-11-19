@@ -34,6 +34,14 @@ pkill -9 node
 ```
 - macOS – SSH Error ‘No Matching Exchange Method Found’: https://www.petenetlive.com/kb/article/0001245
 - Nice personal website + portfolio: https://www.joahspearman.com/
+- Edit bash profile and bash rc as follows. Aliases should be in bashrc, not bash_profile. 
+```
+nano ~/.bashrc
+nano ~/.bash_profile
+
+source ~/.bashrc
+source ~/.bash_profile
+```
 
 ## FullStack:
 
