@@ -5,6 +5,7 @@ nano ~/.bashrc
 nano ~/.bash_profile
 source ~/.bashrc
 source ~/.bash_profile
+alias
 ```
 
 <details>
