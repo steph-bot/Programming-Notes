@@ -44,6 +44,8 @@ alias gita="git add"
 alias gitadd="git add"
 alias gitcommit="git commit -m"
 alias gitcmt="git commit -m"
+alias gitdiff="git diff"
+alias gitdiffc="git diff --cached"
 
 # nvm
 export NVM_DIR="$HOME/.nvm"
