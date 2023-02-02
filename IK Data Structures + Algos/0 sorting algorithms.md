@@ -1,7 +1,7 @@
 # Sorting Algorithms
 
-| Algorithm            | Exact $\theta(n)$ | Worst Case $O(n)$ | Best Case $\Omega(n)$ | Avg Case |
-| -----------          | -----------       | -----------       | -----------           | ----------- |
+| Algorithm            | Exact $\theta(n)$ | Worst Case $O(n)$ | Best Case $\Omega(n)$ | Average Case $\theta(n)$ |
+| -----------        | :-----------:     | :-----------:     | :-----------:         |:--------: |
 | Selection Sort       | $\theta(n^2)$     | $O(n^2)$          | $\Omega(n^2)$         | |
 | Bubble Sort          | $\theta(n^2)$     | $O(n^2)$          | $\Omega(n^2)$         | |
 | Insertion Sort       |                   | $O(n^2)$          | $\Omega(n)$           | |
