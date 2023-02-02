@@ -13,8 +13,8 @@
 | Selection Sort       | $\theta(n^2)$     | $O(n^2)$          | $\Omega(n^2)$         | |
 | Bubble Sort          | $\theta(n^2)$     | $O(n^2)$          | $\Omega(n^2)$         | |
 | Insertion Sort       |                   | $O(n^2)$          | $\Omega(n)$           | |
-| Merge Sort           | $\theta(nlog(n))$ | Worst Case $O(n)$ | Best Case $\omega(n)$ | |
-| Quick Sort           |                   | Worst Case $O(n)$ | Best Case $\omega(n)$ | |
+| Merge Sort           | $\theta(nlog(n))$ | $O(nlog(n))$      | $\Omega(nlog(n))$     | |
+| Quick Sort           |                   | $O(n^2)$          | $\Omega(nlog(n))$     | $O(nlog(n))$ |
 | Heap Sort            |                   | Worst Case $O(n)$ | Best Case $\omega(n)$ | |
 | Binary Heap Actions**|                   | Worst Case $O(n)$ | Best Case $\omega(n)$ | |
 | Build Heap           |                   | Worst Case $O(n)$ | Best Case $\omega(n)$ | |
