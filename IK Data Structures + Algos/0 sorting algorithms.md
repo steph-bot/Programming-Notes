@@ -1,12 +1,4 @@
 # Sorting Algorithms
-- selection sort
-- bubble sort
-- insertion sort
-- merge sort
-- quick sort
-- heap sort
-- insert/extract/change priority/search a binary heap
-- build heap
 
 | Algorithm            | Exact $\theta(n)$ | Worst Case $O(n)$ | Best Case $\Omega(n)$ | Avg Case |
 | -----------          | -----------       | -----------       | -----------           | ----------- |
@@ -20,4 +12,29 @@
 | Build Heap           |                   | $O(n)$            |                       | |
 
 **insert/extract/change priority/search a binary heap
+
+## Brute Force
+- Selection Sort: Scan to find minimum element, swap it with first position, continue till sorted
+- Bubble Sort
+
+## Decrease and Conquer
+- Upfront work to reduce problem from n to n-1
+    * Selection Sort
+    * Bubble Sort
+- Work at end to extend problem from n-1 to n
+    * Insertion Sort:
+- Reduce problem by size of partition
+    * Quick Select (Randomized)
+
+## Divide and Conquer
+- Merge Sort
+    * Backend work: Solve each half and merge results together
+- Quick sort (Randomized)
+    * Upfront work: Select arbitrary pivot value, solve each half, and merge results together
+    * Lomuto Partitioning
+    * Hoare’s Partitioning
+
+## Transform and Conquer
+- Heap Sort
+
 
