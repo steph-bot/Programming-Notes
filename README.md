@@ -1,6 +1,6 @@
 # Programming Notes
 
-Hi, I'm Stephanie! I work as a software support engineer at a startup in Houston, TX. I started my career as a chemical engineer in process automation design for a major chemical corporation. After a car accident left me seriously injured, I fell in love (again) with web development. I worked through online classes and projects in between doctor's appointments and physical therapy and am now working on becoming the best engineer I can be :-)
+Hi, I'm Stephanie! I started my career as a chemical engineer in process automation design for a major chemical corporation. After a car accident left me seriously injured, I fell in love (again) with web development. I worked through online classes and projects in between doctor's appointments and physical therapy and am now working on becoming the best engineer I can be :-)
 
 I created most these notes to supplement video lectures and tutorials by Andrei Neagoie. It's nice to have a personal reference written in my own words with my own code samples. 
 
@@ -25,7 +25,7 @@ I created most these notes to supplement video lectures and tutorials by Andrei 
 cd inspector-dev-tools # <-- whichever directory has the package
 npm link
 cd sophos-central-inspector
-npm link @liongard/inspector-dev-tools # <-- this installs from your local drive and not from npm basically
+npm link @stephgard/inspector-dev-tools # <-- this installs from your local drive and not from npm basically
 ```
 - Some very cool AWS labs: https://github.com/acantril/learn-cantrill-io-labs
 - Manually kill Node process in terminal:
